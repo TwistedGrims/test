@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://git.disroot.org/ayza/FStream/raw/branch/main/fstream.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://git.disroot.org/ayza/FStream/",
+        "fileSize": 108629,
+        "status": 1,
+        "language": "fr",
+        "authors": [
+            "disroot.org/ayza/FStream"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 16,
+        "internalName": "FStream",
+        "description": "Ajout de NetflixMirror 1080p (repo CSX extension codée par HORIS), Programmez des sources facilement avec la nouvelle implementation !",
+        "url": "https://git.disroot.org/ayza/FStream/raw/branch/main/FStream.cs3",
+        "name": "FStream"
+    }
+]
